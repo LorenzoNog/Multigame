@@ -2,10 +2,10 @@
 La plataforma esta realizada a partir de un proyecto propuesto por Gonzalo Pozzo en su canal de youtube.
 
 #Preview
-[!inicio.png](https://res.cloudinary.com/dem9ilhyh/image/upload/v1680616195/Ecommerce/Screenshot_18_nsuwog.png)
-[!memotest.png](https://res.cloudinary.com/dem9ilhyh/image/upload/v1680616195/Ecommerce/Screenshot_19_zzebs9.png)
-[!wpm.png](https://res.cloudinary.com/dem9ilhyh/image/upload/v1680616196/Ecommerce/Screenshot_20_tf3ozf.png)
-[!whoisit.png](https://res.cloudinary.com/dem9ilhyh/image/upload/v1680616196/Ecommerce/Screenshot_21_uyrpbp.png)
+[![inicio.png](https://res.cloudinary.com/dem9ilhyh/image/upload/v1680616195/Ecommerce/Screenshot_18_nsuwog.png)]
+[![memotest.png](https://res.cloudinary.com/dem9ilhyh/image/upload/v1680616195/Ecommerce/Screenshot_19_zzebs9.png)]
+[![wpm.png](https://res.cloudinary.com/dem9ilhyh/image/upload/v1680616196/Ecommerce/Screenshot_20_tf3ozf.png)]
+[![whoisit.png](https://res.cloudinary.com/dem9ilhyh/image/upload/v1680616196/Ecommerce/Screenshot_21_uyrpbp.png)]
 
 ## Qué contiene? 
 * Una pestaña inicial con acceso a los tres juegos.
