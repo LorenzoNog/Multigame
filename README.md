@@ -2,10 +2,10 @@
 La plataforma esta realizada a partir de un proyecto propuesto por Gonzalo Pozzo en su canal de youtube.
 
 #Preview
-! [inicio](C:\Users\loren\Desktop\Proyectos\juegos\multigames\public\inicio.png) .
-! [memotest](C:\Users\loren\Desktop\Proyectos\juegos\multigames\public\memotest.png) .
-! [wpm](C:\Users\loren\Desktop\Proyectos\juegos\multigames\public\wpm.png) .
-! [whoisit](C:\Users\loren\Desktop\Proyectos\juegos\multigames\public\whoisit.png) .
+! [inicio](https://res.cloudinary.com/dem9ilhyh/image/upload/v1680615869/Ecommerce/Screenshot_18_gwcavi.png) .
+! [memotest](https://res.cloudinary.com/dem9ilhyh/image/upload/v1680615868/Ecommerce/Screenshot_19_ycwh7g.png) .
+! [wpm](https://res.cloudinary.com/dem9ilhyh/image/upload/v1680615869/Ecommerce/Screenshot_20_jb4cbf.png) .
+! [whoisit](https://res.cloudinary.com/dem9ilhyh/image/upload/v1680615869/Ecommerce/Screenshot_21_q9skbn.png) .
 
 ## Qué contiene? 
 . Una pestaña inicial con acceso a los tres juegos.
