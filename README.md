@@ -3,9 +3,9 @@ La plataforma esta realizada a partir de un proyecto propuesto por Gonzalo Pozzo
 
 #Preview
 [![inicio.png](https://res.cloudinary.com/dem9ilhyh/image/upload/v1680616195/Ecommerce/Screenshot_18_nsuwog.png)]
-[![memotest-19.png](https://i.postimg.cc/MHb0hd8L/Screenshot-19.png)](https://postimg.cc/4Hyhcvyv)
-[![wpm-20.png](https://i.postimg.cc/DynPqkr3/Screenshot-20.png)](https://postimg.cc/Bt7F0z7m)
-[![whoisit-21.png](https://i.postimg.cc/Xq0cHttF/Screenshot-21.png)](https://postimg.cc/2b2Z39k8)
+[![memotest.png](https://res.cloudinary.com/dem9ilhyh/image/upload/v1680616195/Ecommerce/Screenshot_19_zzebs9.png)]
+[![wpm.png](https://res.cloudinary.com/dem9ilhyh/image/upload/v1680616196/Ecommerce/Screenshot_20_tf3ozf.png)]
+[![whoisit.png](https://res.cloudinary.com/dem9ilhyh/image/upload/v1680616196/Ecommerce/Screenshot_21_uyrpbp.png)]
 
 ## Qué contiene? 
 . Una pestaña inicial con acceso a los tres juegos.
