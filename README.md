@@ -2,7 +2,7 @@
 La plataforma esta realizada a partir de un proyecto propuesto por Gonzalo Pozzo en su canal de youtube.
 
 #Preview
-[![inicio.png](https://i.postimg.cc/ht4MqWv1/Screenshot-18.png)](https://postimg.cc/Cztbj2jR)
+[![inicio.png](https://res.cloudinary.com/dem9ilhyh/image/upload/v1680616195/Ecommerce/Screenshot_18_nsuwog.png)]
 [![memotest-19.png](https://i.postimg.cc/MHb0hd8L/Screenshot-19.png)](https://postimg.cc/4Hyhcvyv)
 [![wpm-20.png](https://i.postimg.cc/DynPqkr3/Screenshot-20.png)](https://postimg.cc/Bt7F0z7m)
 [![whoisit-21.png](https://i.postimg.cc/Xq0cHttF/Screenshot-21.png)](https://postimg.cc/2b2Z39k8)
