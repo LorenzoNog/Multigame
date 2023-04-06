@@ -20,15 +20,15 @@ La plataforma esta realizada a partir de un proyecto propuesto por Gonzalo Pozzo
     
 ## Se utiliza en el:
 
-#Lenguajes
+👉Lenguajes
 * Typescript
 * CSS
 * HTML
 
-#Frameworks
+👉Frameworks
 * React
 
-#Librerías
+👉Librerías
 * react-router-dom
 
 ## Deployment
