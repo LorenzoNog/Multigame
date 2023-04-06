@@ -1,5 +1,5 @@
 # MULTIGAME
-La plataforma esta realizada a partir de un proyecto propuesto por Gonzalo Pozzo en su canal de youtube.
+La plataforma esta realizada a partir de un proyecto propuesto por [@goncy](https://www.github.com/goncy) en su canal de youtube.
 
 ## Preview
 [![inicio.png](https://res.cloudinary.com/dem9ilhyh/image/upload/v1680616195/Ecommerce/Screenshot_18_nsuwog.png)]
