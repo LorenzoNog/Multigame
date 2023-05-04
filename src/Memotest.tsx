@@ -52,8 +52,7 @@ export default function Memotest() {
       <ul
         style={{
           display: "grid",
-          gridTemplateColumns: "repeat(auto-fill, minmax(128px, 1fr",
-          gap: "8px",
+          gridTemplateColumns: "repeat(auto-fill,minmax(115px, 1fr))" ,
         }}
       >
         {images.map((image) => {
@@ -65,7 +64,7 @@ export default function Memotest() {
                 setSelected((selected) => selected.concat(image))
               }
               key={image}
-              style={{ padding: 10, cursor: "pointer" }}
+              style={{ padding: 17, cursor: "pointer" }}
             >
               {selected.includes(image) || guessed.includes(image) ? (
                 <img src={url} alt="img" className="img" />

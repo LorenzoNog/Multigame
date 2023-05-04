@@ -5,7 +5,7 @@
     font-family: 'Press Start 2P', cursive;
 }
 body{
-    background-image: url(https://res.cloudinary.com/dem9ilhyh/image/upload/v1680544505/Ecommerce/wp2711084_hv3mm6.webp);
+    background-image:linear-gradient(rgb(0,0,0,0.2), rgb(0,0,0,0)),url('../../public/fondo.png');
     background-repeat: no-repeat;
     background-size: cover;
 }
